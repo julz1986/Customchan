@@ -1,715 +1,197 @@
 #EXTM3U
-#EXTINF:-1,USA: Bein Sports HD
-http://51.254.42.102:8080/live/tet/tet/4644.ts
-#EXTINF:-1,USA: Bein Sports N HD
-http://51.254.42.102:8080/live/tet/tet/7419.ts
-#EXTINF:-1,USA: TSN 1
-http://51.254.42.102:8080/live/tet/tet/2299.ts
-#EXTINF:-1,USA: TSN 2
-http://51.254.42.102:8080/live/tet/tet/2298.ts
-#EXTINF:-1,USA: TSN 3
-http://51.254.42.102:8080/live/tet/tet/2297.ts
-#EXTINF:-1,USA: TSN 4
-http://51.254.42.102:8080/live/tet/tet/2296.ts
-#EXTINF:-1,USA: TSN 5
-http://51.254.42.102:8080/live/tet/tet/2295.ts
-#EXTINF:-1,USA: Astro Supersport 1
-http://51.254.42.102:8080/live/tet/tet/3876.ts
-#EXTINF:-1,USA: Astro Supersport 2
-http://51.254.42.102:8080/live/tet/tet/3877.ts
-#EXTINF:-1,USA: Astro Supersport 3
-http://51.254.42.102:8080/live/tet/tet/3878.ts
-#EXTINF:-1,USA: Astro Supersport 4
-http://51.254.42.102:8080/live/tet/tet/3879.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://51.254.42.102:8080/live/tet/tet/6213.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://51.254.42.102:8080/live/tet/tet/6214.ts
-#EXTINF:-1,USA: FOX SPORTS HD ( ASIA )
-http://51.254.42.102:8080/live/tet/tet/8215.ts
-#EXTINF:-1,VIP: ELEVEN PLUS
-http://51.254.42.102:8080/live/tet/tet/10303.ts
-#EXTINF:-1,USA: SportsNet World
-http://51.254.42.102:8080/live/tet/tet/7824.ts
-#EXTINF:-1,USA: SportNet 360
-http://51.254.42.102:8080/live/tet/tet/8299.ts
-#EXTINF:-1,USA: Sportnet East
-http://51.254.42.102:8080/live/tet/tet/7368.ts
-#EXTINF:-1,USA: Sportnet West
-http://51.254.42.102:8080/live/tet/tet/8155.ts
-#EXTINF:-1,USA: Sportnet One
-http://51.254.42.102:8080/live/tet/tet/6813.ts
-#EXTINF:-1,USA: Sportnet World
-http://51.254.42.102:8080/live/tet/tet/8175.ts
-#EXTINF:-1,USA: Sportnet Pacific
-http://51.254.42.102:8080/live/tet/tet/7459.ts
-#EXTINF:-1,USA: Sportnet Ontario
-http://51.254.42.102:8080/live/tet/tet/7458.ts
-#EXTINF:-1,USA: ESPN HD
-http://51.254.42.102:8080/live/tet/tet/8707.ts
-#EXTINF:-1,USA: ESPN 1
-http://51.254.42.102:8080/live/tet/tet/8470.ts
-#EXTINF:-1,USA: ESPN 2
-http://51.254.42.102:8080/live/tet/tet/8469.ts
-#EXTINF:-1,USA: NBA NETWORK HD
-http://51.254.42.102:8080/live/tet/tet/8471.ts
-#EXTINF:-1,USA: USA Network
-http://51.254.42.102:8080/live/tet/tet/6808.ts
-#EXTINF:-1,USA: NHL Network
-http://51.254.42.102:8080/live/tet/tet/7418.ts
-#EXTINF:-1,USA: NFL
-http://51.254.42.102:8080/live/tet/tet/6812.ts
-#EXTINF:-1,USA: NBC GOLF HD
-http://51.254.42.102:8080/live/tet/tet/6829.ts
-#EXTINF:-1,USA: US WWE HD
-http://51.254.42.102:8080/live/tet/tet/4270.ts
-#EXTINF:-1,USA: PAG HD
-http://51.254.42.102:8080/live/tet/tet/7416.ts
-#EXTINF:-1,USA: DIY Network HD
-http://51.254.42.102:8080/live/tet/tet/7366.ts
-#EXTINF:-1,USA: NBA US HD
-http://51.254.42.102:8080/live/tet/tet/4272.ts
-#EXTINF:-1,USA: NBC SPORT
-http://51.254.42.102:8080/live/tet/tet/6817.ts
-#EXTINF:-1,USA: Tennis Channel HD
-http://51.254.42.102:8080/live/tet/tet/11748.ts
-#EXTINF:-1,USA: UFC Fight Night Live US
-http://51.254.42.102:8080/live/tet/tet/10689.ts
-#EXTINF:-1,USA: UFC Fight Night 88 US
-http://51.254.42.102:8080/live/tet/tet/10688.ts
-#EXTINF:-1,USA: UFC Fight Night 87 US
-http://51.254.42.102:8080/live/tet/tet/10687.ts
-#EXTINF:-1,USA: UFC 199 US
-http://51.254.42.102:8080/live/tet/tet/10685.ts
-#EXTINF:-1,USA: E! HD
-http://51.254.42.102:8080/live/tet/tet/10686.ts
-#EXTINF:-1,USA: Fight Sport
-http://51.254.42.102:8080/live/tet/tet/9130.ts
-#EXTINF:-1,USA: Food Network
-http://51.254.42.102:8080/live/tet/tet/7434.ts
-#EXTINF:-1,USA: AFN SPORTS HD
-http://51.254.42.102:8080/live/tet/tet/5917.ts
-#EXTINF:-1,USA: AFN SPORTS
-http://51.254.42.102:8080/live/tet/tet/5907.ts
-#EXTINF:-1,USA: AFN SPORTS 2
-http://51.254.42.102:8080/live/tet/tet/5906.ts
-#EXTINF:-1,USA: AFN SPECTRUM
-http://51.254.42.102:8080/live/tet/tet/5898.ts
-#EXTINF:-1,USA: AFN PRIME PACIFIC
-http://51.254.42.102:8080/live/tet/tet/5913.ts
-#EXTINF:-1,USA: AFN PRIME ATLANTIC
-http://51.254.42.102:8080/live/tet/tet/5912.ts
-#EXTINF:-1,USA: AFN MOVIE
-http://51.254.42.102:8080/live/tet/tet/5908.ts
-#EXTINF:-1,USA: AFN NEWS
-http://51.254.42.102:8080/live/tet/tet/5901.ts
-#EXTINF:-1,USA: SyFy HD
-http://51.254.42.102:8080/live/tet/tet/5791.ts
-#EXTINF:-1,USA: FOX 43
-http://51.254.42.102:8080/live/tet/tet/9674.ts
-#EXTINF:-1,USA: FREEFORM HD
-http://51.254.42.102:8080/live/tet/tet/9673.ts
-#EXTINF:-1,USA: CBS HD USA
-http://51.254.42.102:8080/live/tet/tet/9668.ts
-#EXTINF:-1,USA: ABC
-http://51.254.42.102:8080/live/tet/tet/8068.ts
-#EXTINF:-1,USA: ABC ( PACK )
-http://51.254.42.102:8080/live/tet/tet/8090.ts
-#EXTINF:-1,USA: NBC HD
-http://51.254.42.102:8080/live/tet/tet/9669.ts
-#EXTINF:-1,USA: NBC
-http://51.254.42.102:8080/live/tet/tet/10215.ts
-#EXTINF:-1,USA: HALLMARK
-http://51.254.42.102:8080/live/tet/tet/6827.ts
-#EXTINF:-1,USA: AMC HD
-http://51.254.42.102:8080/live/tet/tet/9676.ts
-#EXTINF:-1,USA: Showtime HD
-http://51.254.42.102:8080/live/tet/tet/6623.ts
-#EXTINF:-1,USA: SHOWTIME HD 2
-http://51.254.42.102:8080/live/tet/tet/8866.ts
-#EXTINF:-1,USA: SHOWTIME WEST
-http://51.254.42.102:8080/live/tet/tet/9670.ts
-#EXTINF:-1,USA: SHOWTIME SHOWCASE
-http://51.254.42.102:8080/live/tet/tet/9671.ts
-#EXTINF:-1,USA: HBO
-http://51.254.42.102:8080/live/tet/tet/6826.ts
-#EXTINF:-1,USA: HBO ZONE
-http://51.254.42.102:8080/live/tet/tet/7758.ts
-#EXTINF:-1,USA: HBO plus HD
-http://51.254.42.102:8080/live/tet/tet/6825.ts
-#EXTINF:-1,USA: YTV
-http://51.254.42.102:8080/live/tet/tet/8069.ts
-#EXTINF:-1,USA: HBO Comedy
-http://51.254.42.102:8080/live/tet/tet/7426.ts
-#EXTINF:-1,USA: Spike
-http://51.254.42.102:8080/live/tet/tet/6830.ts
-#EXTINF:-1,USA: Comedy Central HD
-http://51.254.42.102:8080/live/tet/tet/8871.ts
-#EXTINF:-1,USA: Cinemax ActionMax
-http://51.254.42.102:8080/live/tet/tet/7438.ts
-#EXTINF:-1,USA: CINEMAX ACTION HD
-http://51.254.42.102:8080/live/tet/tet/8868.ts
-#EXTINF:-1,USA: Cinemax MoreMax
-http://51.254.42.102:8080/live/tet/tet/7643.ts
-#EXTINF:-1,USA: Cinemax East
-http://51.254.42.102:8080/live/tet/tet/7462.ts
-#EXTINF:-1,USA: CINEMAX EAST HD
-http://51.254.42.102:8080/live/tet/tet/8867.ts
-#EXTINF:-1,USA: CINEMAX 5 STAR MAX  HD
-http://51.254.42.102:8080/live/tet/tet/8870.ts
-#EXTINF:-1,USA: Starz West US
-http://51.254.42.102:8080/live/tet/tet/10684.ts
-#EXTINF:-1,USA: Starz Encore US
-http://51.254.42.102:8080/live/tet/tet/10681.ts
-#EXTINF:-1,USA: Starz Edge US
-http://51.254.42.102:8080/live/tet/tet/10680.ts
-#EXTINF:-1,USA: Starz East US
-http://51.254.42.102:8080/live/tet/tet/10679.ts
-#EXTINF:-1,USA: Starz Comedy US
-http://51.254.42.102:8080/live/tet/tet/10678.ts
-#EXTINF:-1,USA: Starz Cinema US
-http://51.254.42.102:8080/live/tet/tet/10677.ts
-#EXTINF:-1,USA: Bravo
-http://51.254.42.102:8080/live/tet/tet/6807.ts
-#EXTINF:-1,USA: Fox SPORTS 506 HD
-http://51.254.42.102:8080/live/tet/tet/10239.ts
-#EXTINF:-1,USA: Lifetime HD
-http://51.254.42.102:8080/live/tet/tet/10238.ts
-#EXTINF:-1,USA: MBL HD
-http://51.254.42.102:8080/live/tet/tet/10140.ts
-#EXTINF:-1,USA: CBCEN
-http://51.254.42.102:8080/live/tet/tet/10214.ts
-#EXTINF:-1,USA: A&E
-http://51.254.42.102:8080/live/tet/tet/10726.ts
-#EXTINF:-1,USA: TWiT
-http://51.254.42.102:8080/live/tet/tet/7424.ts
-#EXTINF:-1,USA: Fox News
-http://51.254.42.102:8080/live/tet/tet/6831.ts
-#EXTINF:-1,USA: HIFI
-http://51.254.42.102:8080/live/tet/tet/6810.ts
-#EXTINF:-1,USA: Tbs HD
-http://51.254.42.102:8080/live/tet/tet/6809.ts
-#EXTINF:-1,USA: SPACE
-http://51.254.42.102:8080/live/tet/tet/6806.ts
-#EXTINF:-1,USA: byu tv
-http://51.254.42.102:8080/live/tet/tet/8157.ts
-#EXTINF:-1,USA: CNN US
-http://51.254.42.102:8080/live/tet/tet/6814.ts
-#EXTINF:-1,USA: CNBC
-http://51.254.42.102:8080/live/tet/tet/3860.ts
-#EXTINF:-1,USA: World Fashion Channel
-http://51.254.42.102:8080/live/tet/tet/7443.ts
-#EXTINF:-1,USA: FX HD
-http://51.254.42.102:8080/live/tet/tet/11455.ts
-#EXTINF:-1,USA: FXX HD
-http://51.254.42.102:8080/live/tet/tet/11456.ts
-#EXTINF:-1,USA: TNT HD
-http://51.254.42.102:8080/live/tet/tet/11431.ts
-#EXTINF:-1,USA: Poker Central
-http://51.254.42.102:8080/live/tet/tet/7439.ts
-#EXTINF:-1,USA: NASA TV
-http://51.254.42.102:8080/live/tet/tet/7367.ts
-#EXTINF:-1,USA: CNBC HD
-http://51.254.42.102:8080/live/tet/tet/7414.ts
-#EXTINF:-1,USA: CBSN US
-http://51.254.42.102:8080/live/tet/tet/7820.ts
-#EXTINF:-1,USA: CW HD
-http://51.254.42.102:8080/live/tet/tet/7413.ts
-#EXTINF:-1,USA: USA Network HD
-http://51.254.42.102:8080/live/tet/tet/9659.ts
-#EXTINF:-1,USA: VH1 Classic
-http://51.254.42.102:8080/live/tet/tet/9675.ts
-#EXTINF:-1,USA: CN HD
-http://51.254.42.102:8080/live/tet/tet/8869.ts
-#EXTINF:-1,USA: Nick HD US
-http://51.254.42.102:8080/live/tet/tet/6815.ts
-#EXTINF:-1,USA: HISTORY 2 HD
-http://51.254.42.102:8080/live/tet/tet/11442.ts
-#EXTINF:-1,USA: INVESTIGATION DESCOVERY HD
-http://51.254.42.102:8080/live/tet/tet/11441.ts
-#EXTINF:-1,USA: Nat Geo Wild HD
-http://51.254.42.102:8080/live/tet/tet/11433.ts
-#EXTINF:-1,USA: NATIONAL GEOGRAPHIC HD
-http://51.254.42.102:8080/live/tet/tet/11432.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
-http://51.254.42.102:8080/live/tet/tet/5130.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
-http://51.254.42.102:8080/live/tet/tet/5129.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
-http://51.254.42.102:8080/live/tet/tet/5128.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
-http://51.254.42.102:8080/live/tet/tet/5127.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
-http://51.254.42.102:8080/live/tet/tet/5126.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
-http://51.254.42.102:8080/live/tet/tet/5125.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
-http://51.254.42.102:8080/live/tet/tet/5124.ts
-#EXTINF:-1,USA: NFL Sunday Ticket 1 L
-http://51.254.42.102:8080/live/tet/tet/11443.ts
-#EXTINF:-1,USA: NFL Sunday Ticket 2 L
-http://51.254.42.102:8080/live/tet/tet/11444.ts
-#EXTINF:-1,USA: NFL Sunday Ticket 3 L
-http://51.254.42.102:8080/live/tet/tet/11445.ts
-#EXTINF:-1,USA: (SD)NFL: 1
-http://51.254.42.102:8080/live/tet/tet/11446.ts
-#EXTINF:-1,USA: (SD)NFL: 2
-http://51.254.42.102:8080/live/tet/tet/11447.ts
-#EXTINF:-1,USA: (SD)NFL: 3
-http://51.254.42.102:8080/live/tet/tet/11448.ts
-#EXTINF:-1,USA: (SD)NFL: 4
-http://51.254.42.102:8080/live/tet/tet/11449.ts
-#EXTINF:-1,USA: (SD)NFL: 5
-http://51.254.42.102:8080/live/tet/tet/11450.ts
-#EXTINF:-1,USA: (SD)NFL: 6
-http://51.254.42.102:8080/live/tet/tet/11451.ts
-#EXTINF:-1,USA: (SD)NFL: 7
-http://51.254.42.102:8080/live/tet/tet/11452.ts
-#EXTINF:-1,USA: (SD)NFL: 8
-http://51.254.42.102:8080/live/tet/tet/11453.ts
-#EXTINF:-1,USA: (SD)NFL: 9
-http://51.254.42.102:8080/live/tet/tet/11454.ts
-#EXTINF:-1,CA: Super Ecran 1
-http://51.254.42.102:8080/live/tet/tet/11413.ts
-#EXTINF:-1,CA: Super Ecran 2
-http://51.254.42.102:8080/live/tet/tet/11412.ts
-#EXTINF:-1,CA: Super Ecran 3
-http://51.254.42.102:8080/live/tet/tet/11411.ts
-#EXTINF:-1,CA: Super Ecran 4
-http://51.254.42.102:8080/live/tet/tet/11410.ts
-#EXTINF:-1,CA: RDS 2
-http://51.254.42.102:8080/live/tet/tet/10240.ts
-#EXTINF:-1,CA: Peach Tree TV
-http://51.254.42.102:8080/live/tet/tet/10241.ts
-#EXTINF:-1,CA: OLN
-http://51.254.42.102:8080/live/tet/tet/10242.ts
-#EXTINF:-1,CA: Silver Screen Classics
-http://51.254.42.102:8080/live/tet/tet/10244.ts
-#EXTINF:-1,CA: RDI
-http://51.254.42.102:8080/live/tet/tet/10243.ts
-#EXTINF:-1,CA: T&E
-http://51.254.42.102:8080/live/tet/tet/7425.ts
-#EXTINF:-1,CA: VRAK
-http://51.254.42.102:8080/live/tet/tet/7903.ts
-#EXTINF:-1,CA: MTV
-http://51.254.42.102:8080/live/tet/tet/11414.ts
-#EXTINF:-1,CA: MovieTime
-http://51.254.42.102:8080/live/tet/tet/11415.ts
-#EXTINF:-1,CA: Gsn
-http://51.254.42.102:8080/live/tet/tet/11416.ts
-#EXTINF:-1,CA: Golf
-http://51.254.42.102:8080/live/tet/tet/11417.ts
-#EXTINF:-1,CA: G4
-http://51.254.42.102:8080/live/tet/tet/11418.ts
-#EXTINF:-1,CA: FYI
-http://51.254.42.102:8080/live/tet/tet/11419.ts
-#EXTINF:-1,CA: E!
-http://51.254.42.102:8080/live/tet/tet/11420.ts
-#EXTINF:-1,CA: Deja View
-http://51.254.42.102:8080/live/tet/tet/11421.ts
-#EXTINF:-1,CA: CTV Toronto
-http://51.254.42.102:8080/live/tet/tet/11422.ts
-#EXTINF:-1,CA: CP24
-http://51.254.42.102:8080/live/tet/tet/11423.ts
-#EXTINF:-1,CA: Cottage Life
-http://51.254.42.102:8080/live/tet/tet/11424.ts
-#EXTINF:-1,CA: Comedy Gold
-http://51.254.42.102:8080/live/tet/tet/11425.ts
-#EXTINF:-1,CA: City Vancouver
-http://51.254.42.102:8080/live/tet/tet/11426.ts
-#EXTINF:-1,CA: CHCH
-http://51.254.42.102:8080/live/tet/tet/11427.ts
-#EXTINF:-1,CA: CBC Toronto
-http://51.254.42.102:8080/live/tet/tet/11428.ts
-#EXTINF:-1,CA: Bet
-http://51.254.42.102:8080/live/tet/tet/11429.ts
-#EXTINF:-1,CA: ABC Spark
-http://51.254.42.102:8080/live/tet/tet/11430.ts
-#EXTINF:-1,UK: SKY SPORTS 1
-http://51.254.42.102:8080/live/tet/tet/1842.ts
-#EXTINF:-1,UK: Sky Sports 2 HD 1080p
-http://51.254.42.102:8080/live/tet/tet/11679.ts
-#EXTINF:-1,UK: SKY SPORTS 2 HD
-http://51.254.42.102:8080/live/tet/tet/2160.ts
-#EXTINF:-1,UK: SKY SPORTS 2
-http://51.254.42.102:8080/live/tet/tet/1841.ts
-#EXTINF:-1,UK: Sky Sports 3 HD 1080p
-http://51.254.42.102:8080/live/tet/tet/11680.ts
-#EXTINF:-1,UK: SKY SPORTS 3 HD
-http://51.254.42.102:8080/live/tet/tet/2161.ts
-#EXTINF:-1,UK: SKY SPORTS 3
-http://51.254.42.102:8080/live/tet/tet/1840.ts
-#EXTINF:-1,UK: Sky Sports 4 HD 1080p
-http://51.254.42.102:8080/live/tet/tet/11681.ts
-#EXTINF:-1,UK: SKY SPORTS 4 HD
-http://51.254.42.102:8080/live/tet/tet/2162.ts
-#EXTINF:-1,UK: SKY SPORTS 4
-http://51.254.42.102:8080/live/tet/tet/1839.ts
-#EXTINF:-1,UK: Sky Sports 5 HD 1080p
-http://51.254.42.102:8080/live/tet/tet/11682.ts
-#EXTINF:-1,UK: SKY SPORTS 5 HD
-http://51.254.42.102:8080/live/tet/tet/2163.ts
-#EXTINF:-1,UK: SKY SPORTS 5
-http://51.254.42.102:8080/live/tet/tet/1838.ts
-#EXTINF:-1,UK: Sky Sports News HD 1080p
-http://51.254.42.102:8080/live/tet/tet/11684.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ
-http://51.254.42.102:8080/live/tet/tet/2165.ts
-#EXTINF:-1,VIP UK: Sky Sports MIX
-http://51.254.42.102:8080/live/tet/tet/9778.ts
-#EXTINF:-1,UK: Sky Sports F1 HD 1080p
-http://51.254.42.102:8080/live/tet/tet/11683.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://51.254.42.102:8080/live/tet/tet/3855.ts
-#EXTINF:-1,UK: Eurosport 1 UK
-http://51.254.42.102:8080/live/tet/tet/3856.ts
-#EXTINF:-1,UK: EUROSPORT 2 UK
-http://51.254.42.102:8080/live/tet/tet/2660.ts
-#EXTINF:-1,UK: Premier HD
-http://51.254.42.102:8080/live/tet/tet/11581.ts
-#EXTINF:-1,VIP UK: EIR SPORT 1 HD
-http://51.254.42.102:8080/live/tet/tet/9425.ts
-#EXTINF:-1,UK: eir Sport 1
-http://51.254.42.102:8080/live/tet/tet/11846.ts
-#EXTINF:-1,VIP UK: EIR SPORT 2 HD
-http://51.254.42.102:8080/live/tet/tet/9426.ts
-#EXTINF:-1,UK: eir Sport 2
-http://51.254.42.102:8080/live/tet/tet/11847.ts
-#EXTINF:-1,UK: MUTV HD
-http://51.254.42.102:8080/live/tet/tet/11695.ts
-#EXTINF:-1,UK: MUTV
-http://51.254.42.102:8080/live/tet/tet/11694.ts
-#EXTINF:-1,UK: Chelsea FC
-http://51.254.42.102:8080/live/tet/tet/5745.ts
-#EXTINF:-1,UK: LFC TV
-http://51.254.42.102:8080/live/tet/tet/5436.ts
-#EXTINF:-1,UK: Motors TV UK
-http://51.254.42.102:8080/live/tet/tet/5749.ts
-#EXTINF:-1,UK: Racing UK
-http://51.254.42.102:8080/live/tet/tet/5769.ts
-#EXTINF:-1,UK: AT THE RACES
-http://51.254.42.102:8080/live/tet/tet/6906.ts
-#EXTINF:-1,UK: Horse & Country
-http://51.254.42.102:8080/live/tet/tet/8102.ts
-#EXTINF:-1,UK: BOX NATION  HD
-http://51.254.42.102:8080/live/tet/tet/2174.ts
-#EXTINF:-1,UK: FIGHTBOX HD
-http://51.254.42.102:8080/live/tet/tet/11153.ts
-#EXTINF:-1,UK: Bike
-http://51.254.42.102:8080/live/tet/tet/11696.ts
-#EXTINF:-1,VIP: S.P.L-1 RANGERS/CELTIC/HEARTS(LIVE FOR SPL)
-http://51.254.42.102:8080/live/tet/tet/7987.ts
-#EXTINF:-1,SC: S.P.F.L RANGERS FC TV (matchtime)
-http://51.254.42.102:8080/live/tet/tet/11365.ts
-#EXTINF:-1,SC: S.P.F.L HEARTS FC TV (matchtime)
-http://51.254.42.102:8080/live/tet/tet/11366.ts
-#EXTINF:-1,SC: S.P.F.L CELTIC FC TV(matchtime)
-http://51.254.42.102:8080/live/tet/tet/11367.ts
-#EXTINF:-1,SC: S.P.F.L ABERDENN FC TV (matchtime)
-http://51.254.42.102:8080/live/tet/tet/11368.ts
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 1
-http://51.254.42.102:8080/live/tet/tet/9419.ts
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 2
-http://51.254.42.102:8080/live/tet/tet/9420.ts
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 3
-http://51.254.42.102:8080/live/tet/tet/9421.ts
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 4
-http://51.254.42.102:8080/live/tet/tet/9422.ts
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 5
-http://51.254.42.102:8080/live/tet/tet/9423.ts
-#EXTINF:-1,VIP UK: BT SPORT EXTRA 6
-http://51.254.42.102:8080/live/tet/tet/9424.ts
-#EXTINF:-1,UK: BT Sport Mosaic
-http://51.254.42.102:8080/live/tet/tet/11732.ts
-#EXTINF:-1,UK: BT Sport Mosaic 2
-http://51.254.42.102:8080/live/tet/tet/11845.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://51.254.42.102:8080/live/tet/tet/11635.ts
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://51.254.42.102:8080/live/tet/tet/1420.ts
-#EXTINF:-1,UK: Sky Cinema Premiere +1
-http://51.254.42.102:8080/live/tet/tet/6915.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
-http://51.254.42.102:8080/live/tet/tet/11640.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://51.254.42.102:8080/live/tet/tet/1427.ts
-#EXTINF:-1,UK: Sky Cinema SciFi & Horror HD
-http://51.254.42.102:8080/live/tet/tet/11644.ts
-#EXTINF:-1,UK: Sky Cinema SciFi & Horror
-http://51.254.42.102:8080/live/tet/tet/1419.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://51.254.42.102:8080/live/tet/tet/11639.ts
-#EXTINF:-1,UK: Sky Cinema Family
-http://51.254.42.102:8080/live/tet/tet/1422.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD
-http://51.254.42.102:8080/live/tet/tet/11636.ts
-#EXTINF:-1,UK: Sky Cinema Hits
-http://51.254.42.102:8080/live/tet/tet/11633.ts
-#EXTINF:-1,UK: Sky Cinema Harry Potter HD
-http://51.254.42.102:8080/live/tet/tet/11637.ts
-#EXTINF:-1,UK: Sky Cinema Harry Potter
-http://51.254.42.102:8080/live/tet/tet/11634.ts
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://51.254.42.102:8080/live/tet/tet/11645.ts
-#EXTINF:-1,UK: Sky Cinema Select
-http://51.254.42.102:8080/live/tet/tet/2096.ts
-#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
-http://51.254.42.102:8080/live/tet/tet/11643.ts
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-http://51.254.42.102:8080/live/tet/tet/2097.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://51.254.42.102:8080/live/tet/tet/11638.ts
-#EXTINF:-1,UK: Sky Cinema Disney
-http://51.254.42.102:8080/live/tet/tet/1424.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
-http://51.254.42.102:8080/live/tet/tet/11642.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller
-http://51.254.42.102:8080/live/tet/tet/1416.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://51.254.42.102:8080/live/tet/tet/11641.ts
-#EXTINF:-1,UK: Sky Cinema Comedy
-http://51.254.42.102:8080/live/tet/tet/1426.ts
-#EXTINF:-1,UK: Showcase
-http://51.254.42.102:8080/live/tet/tet/11670.ts
-#EXTINF:-1,UK: Horror
-http://51.254.42.102:8080/live/tet/tet/5653.ts
-#EXTINF:-1,UK: horror ch +1
-http://51.254.42.102:8080/live/tet/tet/11648.ts
-#EXTINF:-1,UK: True Movies 1
-http://51.254.42.102:8080/live/tet/tet/2437.ts
-#EXTINF:-1,UK: True Movies 2
-http://51.254.42.102:8080/live/tet/tet/2436.ts
-#EXTINF:-1,UK: True Entertainment
-http://51.254.42.102:8080/live/tet/tet/11617.ts
-#EXTINF:-1,UK: True Entertainment +1
-http://51.254.42.102:8080/live/tet/tet/11616.ts
-#EXTINF:-1,UK: True Crime
-http://51.254.42.102:8080/live/tet/tet/11600.ts
-#EXTINF:-1,UK: True Crime +1
-http://51.254.42.102:8080/live/tet/tet/11618.ts
-#EXTINF:-1,UK: Drama
-http://51.254.42.102:8080/live/tet/tet/11610.ts
-#EXTINF:-1,UK: Movies 4 Men
-http://51.254.42.102:8080/live/tet/tet/5748.ts
-#EXTINF:-1,UK: Movies 4 Men +1
-http://51.254.42.102:8080/live/tet/tet/9540.ts
-#EXTINF:-1,UK: Movies 24
-http://51.254.42.102:8080/live/tet/tet/11649.ts
-#EXTINF:-1,UK: Movies 24 +1
-http://51.254.42.102:8080/live/tet/tet/9777.ts
-#EXTINF:-1,UK: Sony Movies
-http://51.254.42.102:8080/live/tet/tet/5743.ts
-#EXTINF:-1,UK: Sony Movies +1
-http://51.254.42.102:8080/live/tet/tet/6554.ts
-#EXTINF:-1,UK: Film 4
-http://51.254.42.102:8080/live/tet/tet/3846.ts
-#EXTINF:-1,UK: Film4 +1
-http://51.254.42.102:8080/live/tet/tet/11646.ts
-#EXTINF:-1,UK: UNIVERSAL
-http://51.254.42.102:8080/live/tet/tet/6722.ts
-#EXTINF:-1,UK: Universal  +1
-http://51.254.42.102:8080/live/tet/tet/10507.ts
-#EXTINF:-1,UK: SyFy
-http://51.254.42.102:8080/live/tet/tet/8134.ts
-#EXTINF:-1,UK: Syfy  +1
-http://51.254.42.102:8080/live/tet/tet/10512.ts
-#EXTINF:-1,UK: Parament ch
-http://51.254.42.102:8080/live/tet/tet/6925.ts
-#EXTINF:-1,UK: FOX HD
-http://51.254.42.102:8080/live/tet/tet/7899.ts
-#EXTINF:-1,UK: Fox
-http://51.254.42.102:8080/live/tet/tet/6416.ts
-#EXTINF:-1,UK: FOX MOVIES
-http://51.254.42.102:8080/live/tet/tet/10162.ts
-#EXTINF:-1,UK: TCM
-http://51.254.42.102:8080/live/tet/tet/7894.ts
-#EXTINF:-1,UK: TCM +1
-http://51.254.42.102:8080/live/tet/tet/11647.ts
-#EXTINF:-1,UK: AMC
-http://51.254.42.102:8080/live/tet/tet/7236.ts
-#EXTINF:-1,UK: Nollywood
-http://51.254.42.102:8080/live/tet/tet/11674.ts
-#EXTINF:-1,UK: Challenge
-http://51.254.42.102:8080/live/tet/tet/11606.ts
-#EXTINF:-1,UK: Challenge +1
-http://51.254.42.102:8080/live/tet/tet/11612.ts
-#EXTINF:-1,UK: Sky Living
-http://51.254.42.102:8080/live/tet/tet/7897.ts
-#EXTINF:-1,UK: Sky Living  +1
-http://51.254.42.102:8080/live/tet/tet/10513.ts
-#EXTINF:-1,UK: SKY ATLANTIC HD
-http://51.254.42.102:8080/live/tet/tet/7898.ts
-#EXTINF:-1,UK: Sky Atlantic  +1
-http://51.254.42.102:8080/live/tet/tet/10514.ts
-#EXTINF:-1,UK: ITV1 HD
-http://51.254.42.102:8080/live/tet/tet/1432.ts
-#EXTINF:-1,UK: ITV +1
-http://51.254.42.102:8080/live/tet/tet/11590.ts
-#EXTINF:-1,UK: ITV2 HD
-http://51.254.42.102:8080/live/tet/tet/1431.ts
-#EXTINF:-1,UK: ITV2
-http://51.254.42.102:8080/live/tet/tet/11591.ts
-#EXTINF:-1,UK: ITV2 +1
-http://51.254.42.102:8080/live/tet/tet/11597.ts
-#EXTINF:-1,UK: ITV3 HD
-http://51.254.42.102:8080/live/tet/tet/1430.ts
-#EXTINF:-1,UK: ITV3
-http://51.254.42.102:8080/live/tet/tet/11592.ts
-#EXTINF:-1,UK: ITV3  +1
-http://51.254.42.102:8080/live/tet/tet/11593.ts
-#EXTINF:-1,UK: ITV4 HD
-http://51.254.42.102:8080/live/tet/tet/1429.ts
-#EXTINF:-1,UK: ITV4
-http://51.254.42.102:8080/live/tet/tet/11594.ts
-#EXTINF:-1,UK: ITV4 +1
-http://51.254.42.102:8080/live/tet/tet/11622.ts
-#EXTINF:-1,UK: ITV Encore
-http://51.254.42.102:8080/live/tet/tet/5594.ts
-#EXTINF:-1,UK: ITV Encore +1
-http://51.254.42.102:8080/live/tet/tet/11595.ts
-#EXTINF:-1,UK: ITVBe
-http://51.254.42.102:8080/live/tet/tet/11596.ts
-#EXTINF:-1,UK: ITVBe +1
-http://51.254.42.102:8080/live/tet/tet/11623.ts
-#EXTINF:-1,UK: Citv
-http://51.254.42.102:8080/live/tet/tet/11727.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://51.254.42.102:8080/live/tet/tet/6718.ts
-#EXTINF:-1,UK: BBC1 HD
-http://51.254.42.102:8080/live/tet/tet/1437.ts
-#EXTINF:-1,UK: BBC One NI HD
-http://51.254.42.102:8080/live/tet/tet/11579.ts
-#EXTINF:-1,UK: BBC2 HD
-http://51.254.42.102:8080/live/tet/tet/1436.ts
-#EXTINF:-1,UK: BBC3/CBBC HD
-http://51.254.42.102:8080/live/tet/tet/1435.ts
-#EXTINF:-1,UK: BBC4/CBEEBIES HD
-http://51.254.42.102:8080/live/tet/tet/1434.ts
-#EXTINF:-1,UK: BBC News
-http://51.254.42.102:8080/live/tet/tet/3858.ts
-#EXTINF:-1,UK: BBC RED BUTTON
-http://51.254.42.102:8080/live/tet/tet/9779.ts
-#EXTINF:-1,UK: SKY 1
-http://51.254.42.102:8080/live/tet/tet/3822.ts
-#EXTINF:-1,UK: Sky1 +1
-http://51.254.42.102:8080/live/tet/tet/8783.ts
-#EXTINF:-1,UK: SKY 2
-http://51.254.42.102:8080/live/tet/tet/2166.ts
-#EXTINF:-1,UK: E! UK
-http://51.254.42.102:8080/live/tet/tet/7900.ts
-#EXTINF:-1,UK: E! +1
-http://51.254.42.102:8080/live/tet/tet/11628.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://51.254.42.102:8080/live/tet/tet/3820.ts
-#EXTINF:-1,UK: Channel 4  +1
-http://51.254.42.102:8080/live/tet/tet/11603.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://51.254.42.102:8080/live/tet/tet/6459.ts
-#EXTINF:-1,UK: Channel 5 +1
-http://51.254.42.102:8080/live/tet/tet/11615.ts
-#EXTINF:-1,UK: Channel 5  +24
-http://51.254.42.102:8080/live/tet/tet/11582.ts
-#EXTINF:-1,UK: Channel 5 Star
-http://51.254.42.102:8080/live/tet/tet/6462.ts
-#EXTINF:-1,UK: Channel 5 USA
-http://51.254.42.102:8080/live/tet/tet/6461.ts
-#EXTINF:-1,UK: 5 USA +1
-http://51.254.42.102:8080/live/tet/tet/11626.ts
-#EXTINF:-1,UK: My5
-http://51.254.42.102:8080/live/tet/tet/11614.ts
-#EXTINF:-1,UK: 5Star
-http://51.254.42.102:8080/live/tet/tet/5763.ts
-#EXTINF:-1,UK: 5Star +1
-http://51.254.42.102:8080/live/tet/tet/10153.ts
-#EXTINF:-1,UK: 4seven
-http://51.254.42.102:8080/live/tet/tet/11585.ts
-#EXTINF:-1,UK: Comedy Central
-http://51.254.42.102:8080/live/tet/tet/1445.ts
-#EXTINF:-1,UK: Comedy Central  +1
-http://51.254.42.102:8080/live/tet/tet/10523.ts
-#EXTINF:-1,UK: Comedy Extra
-http://51.254.42.102:8080/live/tet/tet/5048.ts
-#EXTINF:-1,UK: Comedy Central Extra  +1
-http://51.254.42.102:8080/live/tet/tet/10522.ts
-#EXTINF:-1,UK: CBS Drama
-http://51.254.42.102:8080/live/tet/tet/3824.ts
+#EXTINF:-1,UK: Watch
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1738.ts
+#EXTINF:-1,US: ABC
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1928.ts
+#EXTINF:-1,UK: TV Nasa
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1568.ts
+#EXTINF:-1,UK: TLC-IRELAND
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1746.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1742.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/878.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1745.ts
+#EXTINF:-1,FR: EuroNews
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/920.ts
 #EXTINF:-1,UK: CBS Action
-http://51.254.42.102:8080/live/tet/tet/3823.ts
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1277.ts
+#EXTINF:-1,UK: CBS Drama
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1276.ts
 #EXTINF:-1,UK: CBS Reality
-http://51.254.42.102:8080/live/tet/tet/2433.ts
-#EXTINF:-1,UK: CBS Reality +1
-http://51.254.42.102:8080/live/tet/tet/8765.ts
-#EXTINF:-1,UK: More4
-http://51.254.42.102:8080/live/tet/tet/3838.ts
-#EXTINF:-1,UK: More4 +1
-http://51.254.42.102:8080/live/tet/tet/11605.ts
-#EXTINF:-1,UK: tru TV
-http://51.254.42.102:8080/live/tet/tet/11620.ts
-#EXTINF:-1,UK: tru TV +1
-http://51.254.42.102:8080/live/tet/tet/11621.ts
-#EXTINF:-1,UK: PBS America
-http://51.254.42.102:8080/live/tet/tet/11658.ts
-#EXTINF:-1,UK: Spike
-http://51.254.42.102:8080/live/tet/tet/11611.ts
-#EXTINF:-1,UK: Pick
-http://51.254.42.102:8080/live/tet/tet/6904.ts
-#EXTINF:-1,UK: Pick +1
-http://51.254.42.102:8080/live/tet/tet/11607.ts
-#EXTINF:-1,UK: STV HD
-http://51.254.42.102:8080/live/tet/tet/10150.ts
-#EXTINF:-1,UK: STV
-http://51.254.42.102:8080/live/tet/tet/10151.ts
-#EXTINF:-1,UK: S4C
-http://51.254.42.102:8080/live/tet/tet/10154.ts
-#EXTINF:-1,UK: 3e
-http://51.254.42.102:8080/live/tet/tet/3830.ts
-#EXTINF:-1,UK: TV3
-http://51.254.42.102:8080/live/tet/tet/11586.ts
-#EXTINF:-1,UK: TV3  +1
-http://51.254.42.102:8080/live/tet/tet/11588.ts
-#EXTINF:-1,UK: TG4
-http://51.254.42.102:8080/live/tet/tet/6927.ts
-#EXTINF:-1,UK: RTE ONE
-http://51.254.42.102:8080/live/tet/tet/2435.ts
-#EXTINF:-1,UK: RTE One +1
-http://51.254.42.102:8080/live/tet/tet/11587.ts
-#EXTINF:-1,UK: RTE TWO
-http://51.254.42.102:8080/live/tet/tet/3528.ts
-#EXTINF:-1,UK: RTÉ News Now
-http://51.254.42.102:8080/live/tet/tet/11159.ts
-#EXTINF:-1,UK: RT.jr
-http://51.254.42.102:8080/live/tet/tet/11662.ts
-#EXTINF:-1,UK: E4
-http://51.254.42.102:8080/live/tet/tet/5599.ts
-#EXTINF:-1,UK: E4 +1
-http://51.254.42.102:8080/live/tet/tet/11604.ts
-#EXTINF:-1,UK: UTV HD
-http://51.254.42.102:8080/live/tet/tet/11580.ts
-#EXTINF:-1,UK: UTV
-http://51.254.42.102:8080/live/tet/tet/11598.ts
-#EXTINF:-1,UK: UTV Ireland
-http://51.254.42.102:8080/live/tet/tet/11584.ts
-#EXTINF:-1,UK: Irish TV
-http://51.254.42.102:8080/live/tet/tet/11583.ts
-#EXTINF:-1,UK: REAL Live
-http://51.254.42.102:8080/live/tet/tet/5049.ts
-#EXTINF:-1,UK: Real Lives +1
-http://51.254.42.102:8080/live/tet/tet/11613.ts
-#EXTINF:-1,UK: YESTERDAY
-http://51.254.42.102:8080/live/tet/tet/6900.ts
-#EXTINF:-1,UK: YESTERDAY  +1
-http://51.254.42.102:8080/live/tet/tet/9799.ts
-#EXTINF:-1,UK: GOLD
-http://51.254.42.102:8080/live/tet/tet/5051.ts
-#EXTINF:-1,UK: GOLD +1
-http://51.254.42.102:8080/live/tet/tet/10519.ts
-#EXTINF:-1,UK: Lifetime
-http://51.254.42.102:8080/live/tet/tet/11608.ts
-#EXTINF:-1,UK: Lifetime +1
-http://51.254.42.102:8080/live/tet/tet/11609.ts
-#EXTINF:-1,UK: Nat Geo
-http://51.254.42.102:8080/live/tet/tet/3862.ts
-#EXTINF:-1,UK: Nat Geo +1hr
-http://51.254.42.102:8080/live/tet/tet/11656.ts
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1275.ts
+#EXTINF:-1,UK: ITV 1
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1267.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1266.ts
+#EXTINF:-1,UK: ITV 3
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1265.ts
+#EXTINF:-1,UK: ITV 4
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1264.ts
+#EXTINF:-1,UK: SKY 1 HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1260.ts
+#EXTINF:-1,UK: SKY Two HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1259.ts
+#EXTINF:-1,UK: SKY Atlantic HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1258.ts
+#EXTINF:-1,UK: SKY Living HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1257.ts
+#EXTINF:-1,UK: Sky Action HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1060.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1747.ts
+#EXTINF:-1,UK: Sky Movies Drama
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1694.ts
+#EXTINF:-1,UK: SKY Movies Premier HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1253.ts
+#EXTINF:-1,UK: Sky Movies  Premiere
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1748.ts
+#EXTINF:-1,UK: Sky Movies Thriller HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1251.ts
+#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1252.ts
+#EXTINF:-1,UK: Sky Movies Greats HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1254.ts
+#EXTINF:-1,UK: SKY Movies Disney HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1255.ts
+#EXTINF:-1,UK: Sky Movies Modern
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1098.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1097.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1096.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1099.ts
+#EXTINF:-1,UK: BoomeRang
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/891.ts
+#EXTINF:-1,UK_Yesterday
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1789.ts
+#EXTINF:-1,UK_Sky Living
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1784.ts
+#EXTINF:-1,UK_Sky Arts
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1782.ts
+#EXTINF:-1,UK_Sky 1
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1785.ts
+#EXTINF:-1,UK_Home
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1786.ts
+#EXTINF:-1,UK_Gold
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1788.ts
+#EXTINF:-1,UK:Watch
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1792.ts
+#EXTINF:-1,UK:Vintage_TV
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1800.ts
+#EXTINF:-1,UK:Ulster TV Ireland
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1801.ts
+#EXTINF:-1,UK:Travel
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1802.ts
+#EXTINF:-1,UK:TLC
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1803.ts
+#EXTINF:-1,UK:TCM+1
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1804.ts
+#EXTINF:-1,UK:Sky Thriller
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1805.ts
+#EXTINF:-1,UK:Sky News
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1829.ts
+#EXTINF:-1,UK:Sky Movies Comedy Central
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1795.ts
+#EXTINF:-1,UK:Sky 2
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1806.ts
+#EXTINF:-1,UK:Quest
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1807.ts
+#EXTINF:-1,UK:PICK
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1808.ts
+#EXTINF:-1,UK:More 4
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1809.ts
+#EXTINF:-1,UK:Life Time
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1831.ts
+#EXTINF:-1,UK:Horror Channel
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1810.ts
+#EXTINF:-1,UK:H2
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1811.ts
+#EXTINF:-1,UK:Good Food
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1791.ts
+#EXTINF:-1,UK:Fox News
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1812.ts
+#EXTINF:-1,UK:FOX
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1783.ts
+#EXTINF:-1,UK:Film 4
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1813.ts
+#EXTINF:-1,UK:Eden
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1787.ts
+#EXTINF:-1,UK:Drama
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1794.ts
+#EXTINF:-1,UK:Disney XD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1832.ts
+#EXTINF:-1,UK:Disney Jr
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1833.ts
+#EXTINF:-1,UK:Disney Channel
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1814.ts
+#EXTINF:-1,UK:Discovery Turbo
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1815.ts
+#EXTINF:-1,UK:Discovery Science
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1816.ts
+#EXTINF:-1,UK:Discovery Home Health
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1817.ts
+#EXTINF:-1,UK:Discovery
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1818.ts
+#EXTINF:-1,UK:Dave
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1790.ts
+#EXTINF:-1,UK:Community
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1834.ts
+#EXTINF:-1,UK:CI
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1819.ts
+#EXTINF:-1,UK:Chelsea TV
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1835.ts
+#EXTINF:-1,UK:Channel 4
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1820.ts
+#EXTINF:-1,UK:BBC_one
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1838.ts
+#EXTINF:-1,UK:BBC TOW
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1839.ts
+#EXTINF:-1,UK:BBC Three
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1840.ts
+#EXTINF:-1,UK:BBC News
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1841.ts
+#EXTINF:-1,UK:At The Races
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1821.ts
+#EXTINF:-1,UK:Animal Planet
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1822.ts
+#EXTINF:-1,UK:Alibi
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1793.ts
+#EXTINF:-1,UK:AKA
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1823.ts
+#EXTINF:-1,UK:5 USA
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1824.ts
+#EXTINF:-1,UK:3E
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1825.ts
+#EXTINF:-1,UK: Sky Sport News HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1675.ts
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1120.ts
+#EXTINF:-1,UK: REALLY
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1935.ts
+#EXTINF:-1,UK: ITVBE
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1936.ts
+#EXTINF:-1,UK: EuroSport 1
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1861.ts
+#EXTINF:-1,UK: Carton Network
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1672.ts
+#EXTINF:-1,UK: Disney Junior
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1271.ts
+#EXTINF:-1,UK: Nickelodeon
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1261.ts
 #EXTINF:-1,UK: Nat Geo Wild
-http://51.254.42.102:8080/live/tet/tet/3863.ts
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1262.ts
+#EXTINF:-1,UK: National Geographic Channel
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1322.ts
+#EXTINF:-1,UK: Nat Geo
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1263.ts
+#EXTINF:-1,FR: Nat Geo HD
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1290.ts
+#EXTINF:-1,UK: Discovery Channel
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1673.ts
+#EXTINF:-1,UK: Discovery History
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1274.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://ksportiptv.com:1557/live/IPTV23/C6WzpiZO6l/1671.ts
